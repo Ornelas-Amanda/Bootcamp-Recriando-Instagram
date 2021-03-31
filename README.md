@@ -1,2 +1,2 @@
 # Bootcamp-Recriando-Instagram
-- site resposivo utilizando somente Css3
+- site resposivo utilizando somente Html 5 e Css3
